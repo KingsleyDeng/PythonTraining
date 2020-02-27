@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c09fceae-4fcf-49de-af8c-7be5b37722b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter_19/饼状图.py" afterDir="false" />
+    <list default="true" id="c09fceae-4fcf-49de-af8c-7be5b37722b8" name="Default Changelist" comment="数据可视化——柱状图">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SgldqmHE6C62x9JgQD1yAIk5zW" />
@@ -34,7 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.柱状图">
+  <component name="RunManager" selected="Python.饼状图">
     <configuration name="变量与字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.柱状图" />
         <item itemvalue="Python.饼状图" />
+        <item itemvalue="Python.柱状图" />
         <item itemvalue="Python.变量与字符串" />
       </list>
     </recent_temporary>
@@ -145,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582708658807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="数据可视化——柱状图">
+      <created>1582795741897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582795741897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,32 +176,37 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python疯狂讲义" />
     <MESSAGE value="Python疯狂讲义练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python疯狂讲义练习" />
+    <MESSAGE value="数据可视化——柱状图" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据可视化——柱状图" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="0" key="CommitChangelistDialog2" timestamp="1582708657177">
+    <state x="438" y="0" key="CommitChangelistDialog2" timestamp="1582795733231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="438" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582708657177" />
-    <state width="1888" height="252" key="GridCell.Tab.0.bottom" timestamp="1582795703617">
+    <state x="438" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582795733231" />
+    <state width="1888" height="252" key="GridCell.Tab.0.bottom" timestamp="1582799369522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582795703617" />
-    <state width="1888" height="252" key="GridCell.Tab.0.center" timestamp="1582795703617">
+    <state width="1888" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582799369522" />
+    <state width="1888" height="252" key="GridCell.Tab.0.center" timestamp="1582799369522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582795703617" />
-    <state width="1888" height="252" key="GridCell.Tab.0.left" timestamp="1582795703617">
+    <state width="1888" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582799369522" />
+    <state width="1888" height="252" key="GridCell.Tab.0.left" timestamp="1582799369522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582795703617" />
-    <state width="1888" height="252" key="GridCell.Tab.0.right" timestamp="1582795703617">
+    <state width="1888" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582799369522" />
+    <state width="1888" height="252" key="GridCell.Tab.0.right" timestamp="1582799369522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582795703617" />
+    <state width="1888" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582799369522" />
     <state x="214" y="0" key="SettingsEditor" timestamp="1582795637663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582795637663" />
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1582811650428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582811650428" />
   </component>
 </project>
