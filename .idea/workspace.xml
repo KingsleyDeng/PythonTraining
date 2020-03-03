@@ -1,104 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c09fceae-4fcf-49de-af8c-7be5b37722b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal-2.4.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/__about__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/adapters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/css/graph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/etree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/formatters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/dot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/dual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/funnel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/gauge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/horizontal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/horizontalbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/horizontalline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/horizontalstackedbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/horizontalstackedline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/pie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/public.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/pyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/radar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/solidgauge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/stackedbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/stackedline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/treemap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/graph/xy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/interpolate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/maps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/serie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/style.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/svg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_formatters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_interpolate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_line_log_none_max_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_pie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_serie_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_sparktext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_stacked.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_style.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/test_xml_filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/test/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pygal/view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../venv/Scripts/pygal_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06/练习1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06/练习3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06/练习4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/Pygal数据图入门.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/Pygal雷达图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/language_compare.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/my.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/my1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/pygal_bar_test.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/练习1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/练习2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/练习3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/练习4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/练习5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_19/练习6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_20/HeWeather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/matplotlib/mpl-data/matplotlibrc" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/matplotlib/mpl-data/matplotlibrc" afterDir="false" />
+    <list default="true" id="c09fceae-4fcf-49de-af8c-7be5b37722b8" name="Default Changelist" comment="Chapter6——类和对象">
+      <change afterPath="$PROJECT_DIR$/Chapter_07/练习1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_07/练习2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_07/练习3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_07/练习4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/__call__属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/__dict__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/__repr__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/动态操作属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/合成属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/练习1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/练习4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/练习5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/练习6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_08/迭代器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,49 +63,7 @@
       <recent name="F:\PythonWorkStation\疯狂Python讲义" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.练习5 (1)">
-    <configuration name="练习1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="疯狂Python讲义" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_06/练习1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="练习3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="疯狂Python讲义" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_06/练习3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.练习8">
     <configuration name="练习4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_06/练习4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_08/练习4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="练习5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_06/练习5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_08/练习5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HeWeather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="练习6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,11 +114,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_20/HeWeather.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_08/练习6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="练习7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疯狂Python讲义" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_08/练习7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="练习8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疯狂Python讲义" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_08/练习8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.练习5 (1)" />
+        <item itemvalue="Python.练习8" />
+        <item itemvalue="Python.练习7" />
+        <item itemvalue="Python.练习6" />
+        <item itemvalue="Python.练习5" />
         <item itemvalue="Python.练习4" />
-        <item itemvalue="Python.练习3 (1)" />
-        <item itemvalue="Python.练习1" />
-        <item itemvalue="Python.HeWeather" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582952235287</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapter6——类和对象">
+      <created>1583146902955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583146902955</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,53 +269,54 @@
     <MESSAGE value="数据可视化——柱状图" />
     <MESSAGE value="数据可视化——饼状图" />
     <MESSAGE value="数据可视化——matplotlib" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据可视化——matplotlib" />
+    <MESSAGE value="Chapter6——类和对象" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter6——类和对象" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="0" key="CommitChangelistDialog2" timestamp="1582952224934">
+    <state x="438" y="0" key="CommitChangelistDialog2" timestamp="1583146915722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="438" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582952224934" />
-    <state width="1888" height="252" key="GridCell.Tab.0.bottom" timestamp="1583146867621">
+    <state x="438" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583146915722" />
+    <state width="1412" height="213" key="GridCell.Tab.0.bottom" timestamp="1583228434366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583146867621" />
-    <state width="1888" height="252" key="GridCell.Tab.0.center" timestamp="1583146867621">
+    <state width="1412" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583228434366" />
+    <state width="1412" height="213" key="GridCell.Tab.0.center" timestamp="1583228434366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583146867621" />
-    <state width="1888" height="252" key="GridCell.Tab.0.left" timestamp="1583146867621">
+    <state width="1412" height="213" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583228434366" />
+    <state width="1412" height="213" key="GridCell.Tab.0.left" timestamp="1583228434366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583146867621" />
-    <state width="1888" height="252" key="GridCell.Tab.0.right" timestamp="1583146867621">
+    <state width="1412" height="213" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583228434366" />
+    <state width="1412" height="213" key="GridCell.Tab.0.right" timestamp="1583228434366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583146867621" />
-    <state width="1412" height="312" key="GridCell.Tab.1.bottom" timestamp="1583146055254">
+    <state width="1412" height="213" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583228434366" />
+    <state width="1412" height="312" key="GridCell.Tab.1.bottom" timestamp="1583151972652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1412" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583146055254" />
-    <state width="1412" height="312" key="GridCell.Tab.1.center" timestamp="1583146055254">
+    <state width="1412" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583151972652" />
+    <state width="1412" height="312" key="GridCell.Tab.1.center" timestamp="1583151972652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1412" height="312" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583146055254" />
-    <state width="1412" height="312" key="GridCell.Tab.1.left" timestamp="1583146055254">
+    <state width="1412" height="312" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583151972652" />
+    <state width="1412" height="312" key="GridCell.Tab.1.left" timestamp="1583151972652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1412" height="312" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583146055254" />
-    <state width="1412" height="312" key="GridCell.Tab.1.right" timestamp="1583146055254">
+    <state width="1412" height="312" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583151972652" />
+    <state width="1412" height="312" key="GridCell.Tab.1.right" timestamp="1583151972652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1412" height="312" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583146055254" />
+    <state width="1412" height="312" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583151972652" />
     <state x="214" y="0" key="SettingsEditor" timestamp="1582795637663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582795637663" />
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1582952238327">
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1583151853798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582952238327" />
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583151853798" />
     <state x="1006" y="-2" key="search.everywhere.popup" timestamp="1583124389864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
