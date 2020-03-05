@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c09fceae-4fcf-49de-af8c-7be5b37722b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter_09/JSON模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_09/random模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_09/正则表达式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/PurePath基本功能.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/os.path操作目录.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/练习7.py" afterDir="false" />
+    <list default="true" id="c09fceae-4fcf-49de-af8c-7be5b37722b8" name="Default Changelist" comment="Chapter10——常见模块">
+      <change afterPath="$PROJECT_DIR$/Chapter_11/SQL数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/first.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/使用executescript()方法执行SQL脚本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/使用序列重复执行DML语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/创建比较函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/创建聚集函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/创建自定义函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/执行多条SQL语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/更新SQL语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_11/查询SQL语句.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +59,8 @@
       <recent name="F:\PythonWorkStation\疯狂Python讲义" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.练习10">
-    <configuration name="练习10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.创建比较函数">
+    <configuration name="创建自定义函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_10/练习10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/创建自定义函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="创建聚集函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_10/练习3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/创建聚集函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="创建比较函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_10/练习4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/创建比较函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="查询SQL语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_10/练习5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/查询SQL语句.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="使用executescript()方法执行SQL脚本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疯狂Python讲义" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_10/练习7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/使用executescript()方法执行SQL脚本.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.练习10" />
-        <item itemvalue="Python.练习7" />
-        <item itemvalue="Python.练习5" />
-        <item itemvalue="Python.练习4" />
-        <item itemvalue="Python.练习3" />
+        <item itemvalue="Python.创建比较函数" />
+        <item itemvalue="Python.创建聚集函数" />
+        <item itemvalue="Python.创建自定义函数" />
+        <item itemvalue="Python.使用executescript()方法执行SQL脚本" />
+        <item itemvalue="Python.查询SQL语句" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583228471817</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Chapter10——常见模块">
+      <created>1583295342795</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583295342795</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,29 +281,30 @@
     <MESSAGE value="数据可视化——matplotlib" />
     <MESSAGE value="Chapter6——类和对象" />
     <MESSAGE value="Chapter8——Python的特殊方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter8——Python的特殊方法" />
+    <MESSAGE value="Chapter10——常见模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter10——常见模块" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="0" key="CommitChangelistDialog2" timestamp="1583228469562">
+    <state x="438" y="0" key="CommitChangelistDialog2" timestamp="1583295379618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="438" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583228469562" />
-    <state width="1888" height="136" key="GridCell.Tab.0.bottom" timestamp="1583295310056">
+    <state x="438" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583295379618" />
+    <state width="1412" height="232" key="GridCell.Tab.0.bottom" timestamp="1583391027424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="136" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583295310056" />
-    <state width="1888" height="136" key="GridCell.Tab.0.center" timestamp="1583295310056">
+    <state width="1412" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583391027424" />
+    <state width="1412" height="232" key="GridCell.Tab.0.center" timestamp="1583391027424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="136" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583295310056" />
-    <state width="1888" height="136" key="GridCell.Tab.0.left" timestamp="1583295310056">
+    <state width="1412" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583391027424" />
+    <state width="1412" height="232" key="GridCell.Tab.0.left" timestamp="1583391027423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="136" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583295310056" />
-    <state width="1888" height="136" key="GridCell.Tab.0.right" timestamp="1583295310056">
+    <state width="1412" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583391027423" />
+    <state width="1412" height="232" key="GridCell.Tab.0.right" timestamp="1583391027424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1888" height="136" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583295310056" />
+    <state width="1412" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583391027424" />
     <state width="1412" height="312" key="GridCell.Tab.1.bottom" timestamp="1583151972652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -320,13 +325,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582795637663" />
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1583228474320">
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1583298272012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583228474320" />
-    <state x="1006" y="-2" key="search.everywhere.popup" timestamp="1583124389864">
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583298272012" />
+    <state x="1082" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1583390163918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1006" y="-2" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583124389864" />
+    <state x="1082" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583390163918" />
   </component>
 </project>
